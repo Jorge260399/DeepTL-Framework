@@ -23,6 +23,10 @@ In the third experiment, we used the pre-trained InceptionV3 model, adding the c
 
 In the fourth experiment, we used the pre-trained SqueezeNet model, adding the classification layers to build the CNN, using a 227x227 input shape.
 
+- **6. Xception Pretrained Model**
+
+In the fifth experiment, we used the pre-trained Xception model, adding the classification layers to build the CNN, using a 299x299 input shape.
+
 ## Principal Libraries
 - OpenCV
 - Tensorflow
